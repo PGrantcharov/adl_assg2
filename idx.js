@@ -4,7 +4,7 @@ CLASSES = {
   2: 'lion',
 };
 
-const MODEL_PATH = 'model.json';
+const MODEL_PATH = 'model/model.json';
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 3;
